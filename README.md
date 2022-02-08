@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umut
-- 🏢 I am senior student with a full scholarship in computer engineering .I will graduate from Işık University in January.
+- 🏢 I graduated from Işık University with a full scholarship in computer engineering .
 - 👀 I’m interested in Java, Spring Boot, Javascript and React.js
 
 Contact with me via these platforms!
